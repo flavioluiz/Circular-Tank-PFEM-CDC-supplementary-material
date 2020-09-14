@@ -20,13 +20,15 @@ The following animation shows the simulation results for the 2D controlled model
 
 ![2D simulation with feedback](./results/SWE2Dfeedback.gif)
 
-The Lyapunov function is presented below:
+The evolution of the Lyapunov function is presented below:
+
+![Lyapunov function](./results/2D/Lyapunov.png)
 
 ## How to install and run the code?
 
 The numerical FEM model is obtained thanks to [FEniCS](https://fenicsproject.org/). Firstly, you need to install it. We suggest installing it from Anaconda, as described [here](https://fenicsproject.org/download/) (check the part FEniCS on Anaconda).
 
-Once installed, you just need to activate the FEniCs environment:
+Once installed, you need to activate the FEniCs environment:
 
 ```console
 your@user:~$ conda activate fenicsproject
