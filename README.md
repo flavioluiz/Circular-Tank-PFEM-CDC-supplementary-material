@@ -40,3 +40,7 @@ Then, you just need to run the Python script on the environment:
 ```
 
  The scripts were tested using Python 3.7, and FEniCS 2018.1.0.
+ 
+ ## Acknowledgements
+ 
+This  work  has  been  performed  in  the  frame  of  the  Collaborative  Research  DFG  and  ANR  project  INFIDHEM,  entitled "Interconnected of Infinite-Dimensional systems for Heterogeneous Media",  nº ANR-16-CE92-0028.  Further  information  is  available  [here](http://websites.isae-supaero.fr/infidhem/the-project).
