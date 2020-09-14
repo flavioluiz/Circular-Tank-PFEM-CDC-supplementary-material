@@ -364,7 +364,7 @@ for i in range(n_ev):
 fntsize = 16
 
 
-path_out = "./1D/"
+path_out = "../results/1D/"
 plt.figure()
 plt.plot(t_ev, H_vec, 'r-')
 plt.plot(t_ev, H_vec_quad, 'b-')

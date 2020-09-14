@@ -310,7 +310,7 @@ for i in range(n_ev):
     V_vec[i] = LyaFunc(alp_sol[:,i], alq_sol[:,i])
 
 fntsize = 16
-path_out = "./2D/"
+path_out = "../results/2D/"
 
 plt.figure()
 plt.plot(t_ev, H_vec, 'r-')

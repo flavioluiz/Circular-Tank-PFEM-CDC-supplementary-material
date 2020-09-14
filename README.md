@@ -1,4 +1,4 @@
-# "Port-Hamiltonian modeling, discretization and feedback control of a circular water tank" - supplementary material
+# Supplementary material for "Port-Hamiltonian modeling, discretization and feedback control of a circular water tank"
 Authors: F.L. Cardoso-Ribeiro, A. Brugnoli, D. Matignon, L. Lefèvre.
 
 This archive presents the source codes and numerical results of our paper "Port-Hamiltonian modeling, discretization and feedback control of a circular water tank", presented at the 2019 IEEE 58th Conference on Decision and Control (CDC), in Lyon, France.
