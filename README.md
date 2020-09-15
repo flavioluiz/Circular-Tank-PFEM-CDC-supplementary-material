@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4029598.svg)](https://doi.org/10.5281/zenodo.4029598)
+
 # Supplementary material for "Port-Hamiltonian modeling, discretization and feedback control of a circular water tank"
 Authors: F.L. Cardoso-Ribeiro, A. Brugnoli, D. Matignon, L. Lefèvre.
 
